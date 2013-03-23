@@ -1,4 +1,4 @@
-Example project
+$name$
 ===============
 
 A simple Scala project. To run:
