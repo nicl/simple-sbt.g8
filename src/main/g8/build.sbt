@@ -1,7 +1,7 @@
-name := "$name$",
+organization := "$organization$"
 
-organization := "$organization$",
+name := "$name$"
 
-version := "$version$",
+version := "$version$"
 
 scalaVersion := "$scala_version$"
